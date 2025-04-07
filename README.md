@@ -1,24 +1,54 @@
-# praia-segura
-Praia segura é um site que permite ao usuário obter informações para se manterem seguros ao visitar as praias da região metropolitana de Recife.
-O site possui opções de linguagem em português e inglês.
 
-Funções e links no figma:
+# 🦈 Praia Segura
 
-- Alertas em tempo real: O usuário pode se cadastrar no site para receber alertas sobre clima, maré ou risco de ataques de tubarão.  
-Português: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=2-2&t=ftwPqhAvSG0aGmjN-4  
-Inglês: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=81-68&t=ftwPqhAvSG0aGmjN-4  
+**Praia Segura** é um site que permite aos usuários obter informações importantes para se manterem seguros ao visitar as praias da Região Metropolitana do Recife. A proposta é oferecer dados, dicas e funcionalidades que alertem sobre os riscos relacionados ao mar — como ataques de tubarão, correntes de retorno e outras situações de perigo.
 
-- Mapa interativo das áreas de risco e locais seguros: O site apresenta um mapa com locais onde há risco de ataque de tubarão.  
-Português: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=17-156&t=ftwPqhAvSG0aGmjN-4  
-Inglês: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=131-106&t=ftwPqhAvSG0aGmjN-4  
+---
 
-- Clima e maré: O site possui informações climáticas e sobre a maré no estado.  
-Português - Parte 1: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=85-92&t=ftwPqhAvSG0aGmjN-4  
-Português - Parte 2: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=17-173&t=ftwPqhAvSG0aGmjN-4  
-Inglês - Parte 1: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=128-136&t=ftwPqhAvSG0aGmjN-4  
-Inglês - Parte 2: https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=128-185&t=ftwPqhAvSG0aGmjN-4  
+## 🌐 Protótipo no Figma
 
-- Curiosidades biológicas: O site apresenta informações sobre a fauna e flora local.
-- Conteúdo educativo para surfistas e banhistas: Usuários podem se informar sobre como evitar ataques de tubarão.
-(ambos nos mesmos frames)
-Português
+👉 [Acesse o protótipo no Figma](https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=2-2&t=ftwPqhAvSG0aGmjN-4&scaling=scale-down-width&content-scaling=fixed)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 📌 Trello (Gerenciamento do Projeto)
+
+👥 [Acesse o quadro do projeto no Trello](https://trello.com/invite/b/67dac7fd71b63e395f572597/ATTIa971d5be553cda1c5b3f50f0d6edf20105D32FA7/projeto-2)
+
+---
+
+## 💡 Sobre o Projeto
+
+Este projeto foi desenvolvido na disciplina **Projetos 2**, da **CESAR School**, em parceria com a **Accenture**. A proposta escolhida faz parte da iniciativa Desafios Pernambuco.
+
+📄 [Desafio Oficial](https://desafios.pe.gov.br/challenge?url=como-podemos-desenvolver-um-siteaplicativo-para-prevenir-incidentes-com-tubaroes-e-promover-a-seguranca-aquatica-nas-areas-costeiras-e-oceanicas-de-pernambuco)
+
+---
+
+## 👨‍💻 Integrantes
+
+- Arthur Borba Lins  
+- Felipe Cisneiros Agostinho  
+- Matheus Rangel Kirzner  
+- Paulo Henrique Alves de Barros Pereira  
+
+---
+
+## 📍 Objetivo
+
+Promover a segurança aquática e auxiliar moradores e turistas com informações acessíveis e atualizadas sobre os riscos nas praias do litoral pernambucano.
+
+---
+
+## 🚧 Em Desenvolvimento
+
+Este projeto está em desenvolvimento. Novas funcionalidades e melhorias estão sendo implementadas continuamente.
