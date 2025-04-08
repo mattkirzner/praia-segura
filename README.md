@@ -12,7 +12,7 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ## 📦 Como as entregas estão organizadas
 
-✔️ **Histórias de usuário**: Disponíveis no Trello, sendo 10 histórias claras, concisas e com entrega de valor bem definida.
+✔️ **Histórias de usuário**: Disponíveis no Trello. São 10 histórias claras, concisas e com entrega de valor bem definida.
 
 ✔️ **Sketches e protótipos**: Lo-fi acessível via Figma, incluindo storyboards e protótipos interativos.
 
