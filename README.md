@@ -64,15 +64,9 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 👥 [Acesse o quadro do projeto no Trello](https://trello.com/invite/b/67dac7fd71b63e395f572597/ATTIa971d5be553cda1c5b3f50f0d6edf20105D32FA7/projeto-2)
 
-<p align="center">
-  <img src="ilovepdf_extracted/Backlog - Histórias_Trello_page-0001.jpg" alt="Backlog do Trello - Parte 1" width="600"/>
-  <br>
-  <em>Backlog do Trello – Parte 1</em>
-  <br><br>
-  <img src="ilovepdf_extracted/Backlog - Histórias_Trello_page-0002.jpg" alt="Backlog do Trello - Parte 2" width="600"/>
-  <br>
-  <em>Backlog do Trello – Parte 2</em>
-</p>
+![Backlog - Histórias_Trello_page-0001](https://github.com/user-attachments/assets/58fe73a5-1601-4100-9d9c-45257bdf0271)
+
+![Backlog - Histórias_Trello_page-0002](https://github.com/user-attachments/assets/34b55806-6a88-4b69-8636-e19bbac93862)
 
 ---
 
