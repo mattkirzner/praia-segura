@@ -26,6 +26,34 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ---
 
+## 📌 Histórias de Usuário
+
+1. **Alerta em tempo real**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=7) (Timestamp: 00:07)
+
+2. **Mapa interativo das áreas de risco e locais seguros**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=19) (Timestamp: 00:07 - 00:18)
+
+3. **Mostrar clima e maré**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=42) (Timestamp: 00:43 - 01:20)
+
+4. **Curiosidades biológicas**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=80) (Timestamp: 01:21 - 02:48)
+
+5. **Internacionalização**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=197) (Timestamp: 03:17 - 04:29)
+
+6. **Caixa de Contato**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=185) (Timestamp: 03:05 - 03:17)
+
+7. **Conteúdo educativo com orientações para banhistas e surfistas**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=80) (Timestamp: 01:21 - 02:48)
+
+8. **Contatos de segurança**  
+   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=174) (Timestamp: 02:55 - 03:04)
+
+---
+
 ## 🌐 Protótipo no Figma
 
 👉 [Acesse o protótipo no Figma](https://www.figma.com/proto/EztVZ0w80U3OIrUXpUUiKK/Projeto-2---Praia-Segura?node-id=2-2&t=ftwPqhAvSG0aGmjN-4&scaling=scale-down-width&content-scaling=fixed)
