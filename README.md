@@ -1,4 +1,3 @@
-
 # 🦈 Praia Segura
 
 **Praia Segura** é um site que permite aos usuários obter informações importantes para se manterem seguros ao visitar as praias da Região Metropolitana do Recife. A proposta é oferecer dados, dicas e funcionalidades que alertem sobre os riscos relacionados ao mar — como ataques de tubarão, correntes de retorno e outras situações de perigo.
@@ -11,13 +10,19 @@
 
 ---
 
+## 🎥 Screencast (Demonstração em Vídeo)
+
+▶️ [Assista ao screencast do projeto](https://www.youtube.com/watch?v=HCaFhLr0Hcw)
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
-- Node.JS
-- React
-- JavaScript
-- HTML
-- CSS
+- Node.JS  
+- React  
+- JavaScript  
+- HTML  
+- CSS  
 
 ---
 
