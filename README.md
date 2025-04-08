@@ -13,6 +13,7 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
+- Node.JS
 - React
 - JavaScript
 - HTML
