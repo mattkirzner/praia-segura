@@ -1,0 +1,16 @@
+#topbar {
+    margin-top: 0;
+    width: 100vw;
+    display: inline-flex;
+    background-color: #FFFBF5;
+    max-height: 100px;
+  }
+  
+  .topimg {
+    max-height: 100px;
+  }
+  
+  #logo {
+    margin-right: auto;
+    margin-left: auto;
+  }  
