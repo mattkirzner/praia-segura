@@ -1,18 +1,21 @@
 import './BotBar.css';
 import React from 'react';
 import ouvidoria from '../imgs/icon-ouvidoria.jpg';
+import { Link } from 'react-router-dom';
 
 const BotBar = () => {
   return (
     <div id='botbar'>
       <span className='center-buttons'>
-        <button className='buttons'>INÍCIO</button>
-        <button className='buttons'>ÁREA DE RISCO</button>
-        <button className='buttons'>CLIMA E MARÉ</button>
-        <button className='buttons'>INFORMAÇÕES ÚTEIS</button>
-        <button className='buttons'>EMERGÊNCIA</button>
+        <Link to="/" className='buttons'>INÍCIO</Link>
+        <Link to="/area-de-risco" className='buttons'>ÁREA DE RISCO</Link>
+        <Link to="/clima-e-mare" className='buttons'>CLIMA E MARÉ</Link>
+        <Link to="/informacoes-uteis" className='buttons'>INFORMAÇÕES ÚTEIS</Link>
+        <Link to="/emergencia" className='buttons'>EMERGÊNCIA</Link>
       </span>
-      <img src={ouvidoria} alt="" />
+      <Link to="/ouvidoria">
+        <img src={ouvidoria} alt="Ouvidoria" id="ouvidoria-img" />
+      </Link>
     </div>
   );
 };
