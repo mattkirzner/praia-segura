@@ -1,39 +1,30 @@
 #botbar {
-margin-top: 0;
-width: 100vw;
-display: flex;
-justify-content: space-between;
-background-color: #183B4E;
-height: 100px;
-padding: 0 10px;
-}
-
-.center-buttons {
-display: flex;
-justify-content: space-between;
-width: 80%;
-}
-
-.buttons {
-height: 100%;
-background-color: #183B4E;
-color: white;
-border: none;
-font-size: large;
-transition: background 0.5s ease-in-out;
-display: flex;
-justify-content: center;
-align-items: center;
-width: 15rem;
-text-decoration: none;
-}
-
-.buttons:hover {
-background-color: #2e7399;
-}
-
-#ouvidoria-img {
-max-height: 100%;
-height: auto;
-width: auto;
-}
+    margin-top: 0;
+    width: 100vw;
+    display: inline-flex;
+    background-color: #183B4E;
+    height: 100px;
+  }
+  
+  .center-buttons {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .center-buttons button {
+    height: 100%;
+    background-color: #183B4E;
+    color: white;
+    border: none;
+    font-size: large;
+    transition: background 0.5s ease-in-out;
+  }
+  
+  .center-buttons button:hover {
+    background-color: #2e7399;
+  }
+  
+  .buttons {
+    width: 15rem;
+  }  
