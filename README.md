@@ -84,7 +84,8 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ## 📌 Quadro do Sprint 1 juntamente com o Backlog
 
-![image](https://github.com/user-attachments/assets/81bcc10b-4be9-454d-a942-ffcffb7e7dfe)
+![image](https://github.com/user-attachments/assets/308027e9-5e8d-4174-878d-3d85e33cce8e)
+
 
 
 ---
