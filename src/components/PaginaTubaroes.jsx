@@ -1,6 +1,6 @@
 import React from 'react';
 import './PaginaTubaroes.css';
-import tubaraoImagem from '../imgs/tubarao.jpeg'; 
+import tubaraoImagem from '../imgs/tubarao.jpeg';
 
 function PaginaTubaroes() {
   const tituloTubaroes = 'Tubarões';
@@ -10,8 +10,20 @@ function PaginaTubaroes() {
     <div className="pagina-tubaroes">
       <h1>{tituloTubaroes}</h1>
       <div className="secao-tubaroes">
-        <img src={tubaraoImagem} alt="Tubarão" />
-        <p dangerouslySetInnerHTML={{ __html: textoTubaroesComQuebraLinha }} />
+        <div className="imagem-e-texto">
+          <img src={tubaraoImagem} alt="Tubarões" />
+          <div className="texto-e-botao">
+            <p dangerouslySetInnerHTML={{ __html: textoTubaroesComQuebraLinha }}></p>
+            <a
+              href="https://semas.pe.gov.br/cemit/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="botao-abaixo-texto"
+            >
+              Saiba mais
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );
