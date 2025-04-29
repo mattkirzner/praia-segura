@@ -60,6 +60,12 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ---
 
+## 📝 Diagrama de Atividades do Sistema
+
+🔎 [Acesse o diagrama de atividades][image](https://github.com/user-attachments/assets/d3f21e65-4f40-479b-ab01-13891858ce0b)
+
+---
+
 ## 📌 Trello (Gerenciamento do Projeto)
 
 👥 [Acesse o quadro do projeto no Trello](https://trello.com/invite/b/67dac7fd71b63e395f572597/ATTIa971d5be553cda1c5b3f50f0d6edf20105D32FA7/projeto-2)
