@@ -4,7 +4,7 @@ import coraisImagem from '../imgs/corais.JPG';
 import tartarugaImagem from '../imgs/tartatuga.JPG';
 
 function Ecossistema() {
-  const tituloEcossistema = 'Ecosistema';
+  const tituloEcossistema = 'Ecossistema';
   
   const textoCorais = `Os recifes de corais na costa do Recife são formações naturais de grande beleza e importância ecológica. Eles atuam como barreiras naturais que reduzem a força das ondas, ajudando a proteger o litoral da erosão. Além disso, abrigam uma rica biodiversidade marinha, servindo de refúgio e alimentação para diversas espécies de peixes, crustáceos e outros organismos. Por tais motivos sua preservação é essencial.`;
 
