@@ -8,7 +8,7 @@ function InfoUtil({ titulo, imagemSrc, texto }) {
       {imagemSrc && (
         <img src={imagemSrc} alt={titulo} className="info-util-image" />
       )}
-      <p className="info-util-texto">{texto}</p>
+      <p className="info-util-texto" >{texto}</p>
     </div>
   );
 }

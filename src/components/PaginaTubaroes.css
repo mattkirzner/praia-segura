@@ -32,6 +32,8 @@
   color: #333; 
   text-align: left;
   flex: 1; 
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 /* Estilos para telas menores */

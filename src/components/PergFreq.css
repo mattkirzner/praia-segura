@@ -1,15 +1,18 @@
 /* PergFreq.css */
 .perguntas-frequentes-container {
-    font-family: sans-serif;
+    font-family: 'Roboto',sans-serif;
     padding: 20px;
+    /* font-size: 15px; */
   }
   
-  .titulo {
-    color: #183B4E; 
-    font-size: 2em;
-    margin-bottom: 20px;
-    text-align: left; 
-  }
+h1{
+  font-size: 3.5em; 
+  color: #183B4E; 
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+
   
   .pergunta {
     margin-bottom: 20px;
@@ -17,7 +20,7 @@
     padding-left: 15px;
   }
   
-  .pergunta h3 {
+  .pergunta h2 {
     color: #183B4E; 
     font-size: 1.1em;
     margin-top: 0;
@@ -25,8 +28,11 @@
   }
   
   .pergunta p {
-    color: #333; 
-    font-size: 0.95em;
-    line-height: 1.6;
-    margin-top: 0;
+  font-size: 0.95em; 
+  line-height: 1.6;
+  color: #333; 
+  text-align: left;
+  flex: 1; 
+  margin-top: auto;
+  margin-bottom: auto;
   }

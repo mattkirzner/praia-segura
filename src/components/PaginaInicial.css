@@ -1,0 +1,20 @@
+.paginainicial-container{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    position: fixed;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;   
+}
+
+
+
+
+  
+.branco{
+    color: white;
+    font-size: 5em;
+    margin-right: 35%;
+    text-shadow: 1px 1px gray;
+}

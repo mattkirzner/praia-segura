@@ -8,6 +8,7 @@
   height: 60px; /* Altura da botbar */
   padding: 0 20px;
   box-sizing: border-box;
+  font-family: 'Roboto', sans-serif; 
 }
 
 .center-buttons {

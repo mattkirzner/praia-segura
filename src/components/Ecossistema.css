@@ -1,26 +1,30 @@
 .pagina-ecossistema {
     padding: 20px;
-    padding-top: 10px;
     font-family: 'Roboto', sans-serif; 
   }
   
+  .centralize{
+    display: flex;
+  }
+
   h1 {
-    font-family: 'Protest Riot', sans-serif;
-    font-size: 76px;
+    font-size: 3.5em; 
+    color: #183B4E; 
+    margin-bottom: 30px;
     text-align: left;
-    color: #183B4E;
-    margin-bottom: 20px;
-    margin-top: 0;
   }
   
   .secao {
     display: flex;
     align-items: center;
-    margin-bottom: 30px;
     gap: 20px;
     flex-wrap: wrap;
   }
   
+  .secao2{
+    margin-left: auto;
+    margin-right: auto;
+  }
   .secao img {
     width: 280px;
     height: auto;
@@ -29,10 +33,12 @@
   }
   
   .secao p {
-    flex: 1;
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: justify;
-    max-width: 600px;
+    font-size: 1.2em; 
+    line-height: 1.6;
+    color: #333; 
+    text-align: left;
+    flex: 1; 
+    margin-top: auto;
+    margin-bottom: auto;
   }
   

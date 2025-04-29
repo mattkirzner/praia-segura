@@ -5,6 +5,7 @@ import BotBar from './components/BotBar';
 import { Routes, Route } from 'react-router-dom';
 
 // Importação dos componentes
+import PaginaInicial from './components/PaginaInicial';
 import PaginaEcossistemaComponent from './components/Ecossistema';
 import PaginaTubaroesComponent from './components/PaginaTubaroes';
 import PaginaComoCurtirComponent from './components/PaginaComoCurtir';
@@ -29,7 +30,7 @@ const App = () => {
         <Route path="/EsportesLazer" element={<EsportesLazer />} />
         
         {/* Outras rotas principais */}
-        <Route path="/" element={<div>Página Inicial</div>} />
+        <Route path="/" element={<PaginaInicial />} />
         <Route path="/AreaDeRisco" element={<div>Área de Risco</div>} />
         <Route path="/ClimaEMare" element={<div>Clima e Maré</div>} />
         <Route path="/Emergencia" element={<Emergencia />} />

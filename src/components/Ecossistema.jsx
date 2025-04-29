@@ -4,7 +4,7 @@ import coraisImagem from '../imgs/corais.JPG';
 import tartarugaImagem from '../imgs/tartatuga.JPG';
 
 function Ecossistema() {
-  const tituloEcossistema = 'ECOSSISTEMA';
+  const tituloEcossistema = 'Ecosistema';
   
   const textoCorais = `Os recifes de corais na costa do Recife são formações naturais de grande beleza e importância ecológica. Eles atuam como barreiras naturais que reduzem a força das ondas, ajudando a proteger o litoral da erosão. Além disso, abrigam uma rica biodiversidade marinha, servindo de refúgio e alimentação para diversas espécies de peixes, crustáceos e outros organismos. Por tais motivos sua preservação é essencial.`;
 
@@ -14,16 +14,17 @@ function Ecossistema() {
     <div className="pagina-ecossistema">
       <h1>{tituloEcossistema}</h1>
 
+      <span className='centralize'>
       <div className="secao">
         <img src={coraisImagem} alt="Recife de Corais" />
         <p>{textoCorais}</p>
       </div>
 
-      <div className="secao">
+      <div className="secao secao2">
         <img src={tartarugaImagem} alt="Tartaruga na Praia" />
         <p>{textoTartarugas}</p>
       </div>
-
+      </span>
     </div>
   );
 }
