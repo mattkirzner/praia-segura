@@ -86,7 +86,13 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ![image](https://github.com/user-attachments/assets/ed135e31-a74c-45e2-a509-59d7979e1a7f)
 
+---
 
+## 🎥 Screencast (Deployment das histórias em produção - Sprint 1)
+
+▶️ [Assista ao screencast][(https://www.youtube.com/watch?v=HCaFhLr0Hcw)](https://youtu.be/Dc1PF9GF2cI)
+
+---
 ## 🛠️ Tecnologias Utilizadas
 
 - Node.JS  
