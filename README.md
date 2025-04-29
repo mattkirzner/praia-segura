@@ -94,6 +94,21 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 ▶️ [Assista ao screencast][(https://www.youtube.com/watch?v=HCaFhLr0Hcw)](https://youtu.be/Dc1PF9GF2cI)
 
 ---
+
+## 🤝 Relato de Programação em Par
+Durante a Sprint 1, adotamos uma abordagem colaborativa para o desenvolvimento do projeto. Cada integrante ficou responsável por uma história de usuário específica, e posteriormente trabalhamos em conjunto para integrar as funcionalidades e finalizar as entregas. A comunicação da equipe ocorreu principalmente através de reuniões no Discord e interações no grupo de WhatsApp. Todos os membros contribuíram ativamente para o repositório no GitHub, garantindo o versionamento contínuo do código.
+
+Contribuições individuais:
+
+Felipe Cisneiros Agostinho: Desenvolveu o componente Emergência, integrou diversos componentes do sistema, manteve o Trello e o README atualizados, e criou o Diagrama de Atividades.
+
+Paulo Henrique Alves de Barros Pereira: Criou os componentes das páginas de informações úteis, implementou a funcionalidade de dropdown no menu do BotBar e foi responsável pela gravação do screencast.
+
+Matheus Rangel Kirzner: Inicializou o repositório, editou o screencast e colaborou na estilização dos componentes das páginas de informações úteis.
+
+Arthur Borba Lins: Desenvolveu os componentes TopBar, BotBar e Ouvidoria, contribuiu na estilização do componente Emergência e realizou a integração dos componentes.
+
+---
 ## 🛠️ Tecnologias Utilizadas
 
 - Node.JS  
