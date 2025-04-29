@@ -62,7 +62,7 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ## 📝 Diagrama de Atividades do Sistema
 
-🔎 [Acesse o diagrama de atividades][image](https://github.com/user-attachments/assets/d3f21e65-4f40-479b-ab01-13891858ce0b)
+🔎 ![image](https://github.com/user-attachments/assets/d3f21e65-4f40-479b-ab01-13891858ce0b)
 
 ---
 
