@@ -6,6 +6,7 @@ import { Routes, Route } from 'react-router-dom';
 
 // Importação dos componentes
 import PaginaInicial from './components/PaginaInicial';
+import AreaDeRisco from './components/AreaDeRisco';
 import PaginaEcossistemaComponent from './components/Ecossistema';
 import PaginaTubaroesComponent from './components/PaginaTubaroes';
 import PaginaComoCurtirComponent from './components/PaginaComoCurtir';
@@ -31,7 +32,7 @@ const App = () => {
         
         {/* Outras rotas principais */}
         <Route path="/" element={<PaginaInicial />} />
-        <Route path="/AreaDeRisco" element={<div>Área de Risco</div>} />
+        <Route path="/AreaDeRisco" element={<AreaDeRisco/>} />
         <Route path="/ClimaEMare" element={<div>Clima e Maré</div>} />
         <Route path="/Emergencia" element={<Emergencia />} />
         <Route path="/Ouvidoria" element={<Ouvidoria />} />
