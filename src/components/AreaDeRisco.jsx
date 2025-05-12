@@ -12,7 +12,7 @@ function AreaDeRisco() {
     navigator.geolocation.getCurrentPosition(
       (position) => {
         const { latitude, longitude } = position.coords;
-        setUserLocation(`https://www.google.com/maps?q=${latitude},${longitude}`);
+        setUserLocation({latitude , longitude});
       },
       (error) => {
         console.error('Erro ao obter localização:', error);
@@ -21,28 +21,29 @@ function AreaDeRisco() {
   }, []);
 
   const tituloMapa1 = `PRAIA DE BOA VIAGEM:`;
-  const textoMapa1 = `Aconselhado o banho de mar apenas na maré-baixa e em áreas de arrecifes`;
+  const textoMapa1 = `Aconselhado o banho de mar apenas na maré-baixa e em áreas de arrecifes.`;
 
   const tituloMapa2 = `PRAIA DE PIEDADE (IGREJINHA) - HOTEL BARRAMARES:`;
-  const textoMapa2 = `Banho de mar proibido no trecho`;
+  const textoMapa2 = `Banho de mar proibido no trecho.`;
 
   const tituloMapa3 = `PRAIA DO PAIVA - PRAIA DE ITAPUAMA:`; 
-  const textoMapa3 = `Aconselhado o banho de mar apenas na maré baixa e em áreas de arrecifes`;
+  const textoMapa3 = `Aconselhado o banho de mar apenas na maré baixa e em áreas de arrecifes.`;
 
   return (
     <div className="areaDeRisco-container" style={{ backgroundImage: `url(${background})` }}>
       
-
       {userLocation && (
-        <a
-          href={userLocation}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="map-link"
-        >
-          📍VOCÊ ESTÁ AQUI!
-        </a>
-      )}
+  <div className="map-container">
+    <h2 className="texto" style={{ fontSize: '28px', textAlign: 'center' }}>VOCÊ ESTÁ AQUI!</h2>
+    <iframe
+      title="Sua localização"
+      src={`https://maps.google.com/maps?q=${userLocation.latitude},${userLocation.longitude}&z=15&output=embed&markers=color:red%7C${userLocation.latitude},${userLocation.longitude}`}
+      allowFullScreen
+      loading="lazy"
+      referrerPolicy="no-referrer-when-downgrade"
+    />
+  </div>
+)}
 
       <div className="container">
         <img src={mapa1} alt="PRAIA DE BOA VIAGEM" className="imagem" />
