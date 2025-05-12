@@ -1,8 +1,9 @@
 import * as React from 'react';
 import './App.css';
-import TopBar from './components/TopBar';
+import {default as TopBar} from './components/TopBar';
 import BotBar from './components/BotBar';
 import { Routes, Route } from 'react-router-dom';
+import { LanguageProvider } from './components/Context';
 
 // Importação dos componentes
 import PaginaInicial from './components/PaginaInicial';
@@ -16,9 +17,14 @@ import EsportesLazer from './components/EsportesLazer';
 import Ouvidoria from './components/Ouvidoria';
 import Emergencia from './components/Emergencia';
 
+
+
 const App = () => {
+
+
   return (
     <>
+      <LanguageProvider>
       <TopBar />
       <BotBar />
       <Routes>
@@ -37,6 +43,7 @@ const App = () => {
         <Route path="/Emergencia" element={<Emergencia />} />
         <Route path="/Ouvidoria" element={<Ouvidoria />} />
       </Routes>
+      </LanguageProvider>
     </>
   );
 };
