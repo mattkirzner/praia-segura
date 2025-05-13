@@ -8,6 +8,7 @@ import { LanguageProvider } from './components/Context';
 // Importação dos componentes
 import PaginaInicial from './components/PaginaInicial';
 import AreaDeRisco from './components/AreaDeRisco';
+import ClimaEMare from './components/ClimaEMare';
 import PaginaEcossistemaComponent from './components/Ecossistema';
 import PaginaTubaroesComponent from './components/PaginaTubaroes';
 import PaginaComoCurtirComponent from './components/PaginaComoCurtir';
@@ -39,7 +40,7 @@ const App = () => {
         {/* Outras rotas principais */}
         <Route path="/" element={<PaginaInicial />} />
         <Route path="/AreaDeRisco" element={<AreaDeRisco/>} />
-        <Route path="/ClimaEMare" element={<div>Clima e Maré</div>} />
+        <Route path="/ClimaEMare" element={<ClimaEMare/>} />
         <Route path="/Emergencia" element={<Emergencia />} />
         <Route path="/Ouvidoria" element={<Ouvidoria />} />
       </Routes>
