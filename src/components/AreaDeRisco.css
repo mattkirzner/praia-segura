@@ -9,6 +9,8 @@
     display: flex;
     align-items: center;
     gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center; 
     
   }
   .map-container {
@@ -30,10 +32,10 @@
   }
   
   .imagem {
+    width: 100%;
     width: 450px;        
     height: auto;
-    margin-left: 40px;
-    margin-top: 40px;
+    margin: 20px auto;
     border-radius: 16px;
     object-fit: contain; 
     border: 2px solid #003366;
@@ -54,22 +56,43 @@
     width: 90%;
     max-width: 600px;
     max-height: 70vh; 
-    margin-left: 50px;
+    margin: 20px auto;
   }
   .map-link {
     background: rgba(255, 225, 0, 0.793);
     border-radius: 15px;
-    padding: 1vh 1vw; 
+    padding: 1vh 1vw;
     width: 90%;
+    max-width: 600px;
     font-size: 25px;
-    margin-left: 40px;
+    margin: 20px auto;        
     text-align: center;
     color: #003366;
     font-weight: bold;
     text-decoration: none;
+    display: block;           
   }
   
   .map-link:hover {
     text-decoration: underline;
+  }
+
+  @media (max-width: 768px) {
+    .texto {
+      font-size: 22px !important;
+    }
+  
+    .contatos-box {
+      padding: 20px;
+      max-height: none;
+    }
+  
+    .map-container iframe {
+      height: 250px;
+    }
+  
+    .imagem {
+      max-width: 90%;
+    }
   }
   
