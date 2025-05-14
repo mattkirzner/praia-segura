@@ -5,10 +5,11 @@
   display: flex;
   justify-content: space-between;
   background-color: #183B4E;
-  height: 60px; /* Altura da botbar */
+  height: 60px;
   padding: 0 20px;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif; 
+  font-family: 'Roboto', sans-serif;
+  flex-wrap: wrap;
 }
 
 .center-buttons {
@@ -17,15 +18,14 @@
   gap: 20px;
   align-items: center;
   height: 100%;
-  width: auto;
   margin-left: auto;
   margin-right: auto;
-} 
+  flex-wrap: wrap;
+}
 
 .buttons,
 .dropdown-toggle {
   position: relative;
-  height: auto;
   background-color: transparent;
   color: white;
   border: none;
@@ -60,7 +60,7 @@
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-/* Estilos para o Dropdown */
+
 .dropdown-container {
   position: relative;
   height: 100%;
@@ -101,7 +101,7 @@
   background-color: #183B4E;
 }
 
-/* Estilos para o botão "OUVIDORIA" com imagem */
+/* Botão com imagem */
 .ouvidoria-button {
   display: flex;
   align-items: center;
@@ -113,7 +113,7 @@
   text-decoration: none;
   white-space: nowrap;
   cursor: pointer;
-  height: 100%; /* Garante que o botão tenha a mesma altura da BotBar */
+  height: 100%;
 }
 
 .ouvidoria-button:hover {
@@ -121,9 +121,10 @@
 }
 
 .ouvidoria-image {
-  height: 100%;  /* Ajusta a imagem para ter a altura da BotBar */
-  width: auto;   /* Mantém a proporção da imagem */
+  height: 100%;
+  width: auto;
 }
+
 
 @media (max-width: 768px) {
   #botbar {
@@ -131,7 +132,7 @@
     height: auto;
     padding: 10px;
     align-items: center;
-  } 
+  }
 
   .center-buttons {
     flex-direction: column;
@@ -146,23 +147,40 @@
     width: 100%;
     justify-content: center;
     padding: 0.75rem;
-  } 
+    text-align: center;
+  }
+
+  .dropdown-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
   .dropdown-menu {
-    position: static;
-    width: 100%;
+    position: relative !important;
+    top: unset !important;
+    left: unset !important;
+    width: 90%;
     box-shadow: none;
     border-radius: 0;
-  } 
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .dropdown-menu li {
+    width: 100%;
+  }
 
   .dropdown-menu li a {
+    width: 100%;
     text-align: center;
     padding: 1rem;
   }
 
   .ouvidoria-image {
-    height: 40px; 
+    height: 40px;
   }
-
-
 }
