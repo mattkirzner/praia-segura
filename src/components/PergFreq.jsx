@@ -1,11 +1,7 @@
 import React from 'react';
 import './PergFreq.css'; 
-import { useLanguageContext } from './Context';
 
 const PergFreq = () => {
-  const{data, setData} = useLanguageContext();
-  
-  if(data.lang=="br"){
   return (
     <div className="perguntas-frequentes-container">
       <h1 >Perguntas Frequentes</h1>
@@ -52,51 +48,7 @@ const PergFreq = () => {
         </p>
       </div>
     </div>
-  );}
-  
-  if(data.lang=="us"){
-    return (
-      <div className="perguntas-frequentes-container">
-        <h1 >FREQUENTLY ASKED QUESTIONS</h1>
-  
-        <div className="pergunta">
-          <h2>Is it never possible to swim in the sea in the risk area?</h2>
-          <p>
-          Swimming in the sea can occur in the pool regions, which are formed at low tide and are mainly found at Boa Viagem beach. 
-          The formation of pools at low tide is required, not only the tide being low. Therefore, for a safe swim, look for the natural pools formed at low tide.
-          We recommend monitoring the tide on this website.
-          </p>
-        </div>
-  
-        <div className="pergunta">
-          <h2>When should I completely avoid swimming in the sea?</h2>
-          <p>
-          Placing your safety first, some circumstances are entirely unfavorable , such as: rainy days, days with murkier water, high tide, all locations without reefs 
-          (even at low tide, as pools are not formed), areas near river mouths, early morning hours, late afternoon hours, if you have any injuries or bleeding, 
-          if you are under the influence of alcohol, alone, or wearing shiny objects. In such situations and locations, the risk of a shark attack significantly increases.
-
-          </p>
-        </div>
-  
-        <div className="pergunta">
-          <h2>Is it equally dangerous throughout the entire risk area? Are there prohibited areas?</h2>
-          <p>
-          No. Although swimming in the sea throughout the entire risk area, which stretches from Farol beach in Olinda to Itapuama beach in Cabo de Santo Agostinho, 
-          is discouraged (except in the natural pools formed at low tide), there is one area that consistently does have more attacks and, therefore, swimming is PROHIBITED 
-          by municipal decree: the stretch between Igrejinha de Piedade and Hotel Barramares, located next to the Air Force Hospital.
-          </p>
-        </div>
-  
-        <div className="pergunta">
-          <h2>What should I do in the event of a shark attack?</h2>
-          <p>
-          Despite everything, try your best not to panic. Swim slowly away from it, moving the water as little as possible. 
-          Move slowly away, facing it and without thrashing your arms and legs. Shout for help, especially for the lifeguards who are strategically positioned. 
-          As soon as possible, get out of the water and seek first aid services.
-          </p>
-        </div>
-      </div>
-    );}
+  );
 };
 
 export default PergFreq;
