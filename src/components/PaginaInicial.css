@@ -32,3 +32,108 @@
     }
   }
   
+/* Garante que o container pegue a altura total da tela menos o espaço do menu */
+.pagina-inicial {
+  min-height: calc(100vh - 120px); /* ajuste o valor se seus headers tiverem outra altura */
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  padding: 40px 60px;
+  box-sizing: border-box;
+}
+
+.lado-esquerdo {
+  flex: 1;
+}
+
+.texto-bemvindo {
+  color: white;
+  font-size: 3.5em;
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  margin: 0;
+}
+
+/* O formulário vai para a direita */
+.lado-direito {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding-top: 20px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+
+/* Estilo do card */
+.form-fundo {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 1.5em;
+  border-radius: 10px;
+  width: 320px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Título do formulário */
+.form-fundo h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 1.2em;
+  line-height: 1.4;
+}
+
+/* Formulário em coluna */
+.form-fundo form {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+/* Label mais próxima do input */
+.form-fundo label {
+  font-size: 0.85em;
+  font-weight: bold;
+  margin-bottom: -1em;
+  text-align: left;
+  color: #000;
+}
+
+/* Input mais compacto e elegante */
+.form-fundo input {
+  padding: 0.5em;
+  font-size: 0.95em;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+/* Botão mais proporcional ao texto */
+.form-fundo button {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding: 0.6em;
+  font-size: 1em;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.form-fundo button:hover {
+  background-color: #f5f5f5;
+  transform: scale(1.03);
+}
+
+/* Texto LGPD com ajuste */
+.form-lgpd {
+  margin-top: 1.2em;
+  font-size: 0.68em;
+  color: black;
+  text-align: justify;
+}
