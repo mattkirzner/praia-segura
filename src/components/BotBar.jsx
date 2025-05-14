@@ -1,4 +1,5 @@
 
+
 import React, { useState } from 'react';
 import './BotBar.css';
 import ouvidoriaIcon from '../imgs/icon-ouvidoria.jpg'; 
@@ -34,7 +35,7 @@ function BotBar() {
               <li><Link to="/ComoCurtir">Como Curtir</Link></li>
               <li><Link to="/Ecoturismo">Ecoturismo</Link></li>
               <li><Link to="/EsportesLazer">Esportes e Lazer</Link></li>
-              <li><Link to="/PergFreq">Peguntas frequentes</Link></li>
+              <li><Link to="/PergFreq">Peguntas Frequentes</Link></li>
             
             </ul>
           )}
