@@ -21,9 +21,9 @@ h1 {
 }
 
 .texto {
-  font-size: 1.2em; 
+  font-size: 1.2em  !important;  
   line-height: 1.6;
-  color: #333; 
+  color: #333 !important ; 
   text-align: left;
   flex: 1; 
   margin-top: auto;
