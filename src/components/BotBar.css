@@ -20,7 +20,7 @@
   width: auto;
   margin-left: auto;
   margin-right: auto;
-}
+} 
 
 .buttons,
 .dropdown-toggle {
@@ -123,4 +123,46 @@
 .ouvidoria-image {
   height: 100%;  /* Ajusta a imagem para ter a altura da BotBar */
   width: auto;   /* Mantém a proporção da imagem */
+}
+
+@media (max-width: 768px) {
+  #botbar {
+    flex-direction: column;
+    height: auto;
+    padding: 10px;
+    align-items: center;
+  } 
+
+  .center-buttons {
+    flex-direction: column;
+    gap: 10px;
+    margin: 10px 0;
+    width: 100%;
+  }
+
+  .buttons,
+  .dropdown-toggle,
+  .ouvidoria-button {
+    width: 100%;
+    justify-content: center;
+    padding: 0.75rem;
+  } 
+
+  .dropdown-menu {
+    position: static;
+    width: 100%;
+    box-shadow: none;
+    border-radius: 0;
+  } 
+
+  .dropdown-menu li a {
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .ouvidoria-image {
+    height: 40px; 
+  }
+
+
 }

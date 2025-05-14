@@ -90,3 +90,29 @@ img {
   height: 50px;
 }
 
+@media (max-width: 768px) {
+  .climaEMare-container {
+    padding: 1rem;
+  }
+
+  .climaEMare-card {
+    padding: 1.5rem;
+  }
+
+  .climaEMare-card h1 {
+    font-size: 1.5rem;
+  }
+
+  .climaEMare-card h2 {
+    font-size: 1.1rem;
+  }
+
+  .climaEMare-card h3 {
+    font-size: 1rem;
+  }
+
+  img {
+    height: 40px;
+  }
+}
+

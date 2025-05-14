@@ -1,3 +1,37 @@
+.paginainicial-container {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed; 
+    font-family: 'Times New Roman', Times, serif;   
+  }
+  
+  .branco {
+    color: white;
+    font-size: 4em;
+    margin-right: 35%;
+    text-shadow: 1px 1px gray;
+  }
+  
+
+  @media (max-width: 768px) {
+    .branco {
+      font-size: 2.5em;
+      margin-right: 10%;
+      text-align: center;
+    }
+  }
+  
+  
+  @media (max-width: 480px) {
+    .branco {
+      font-size: 2em;
+      margin-right: 0;
+      text-align: center;
+    }
+  }
+  
 /* Garante que o container pegue a altura total da tela menos o espaço do menu */
 .pagina-inicial {
   min-height: calc(100vh - 120px); /* ajuste o valor se seus headers tiverem outra altura */
