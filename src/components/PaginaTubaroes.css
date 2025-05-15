@@ -1,12 +1,14 @@
 .pagina-tubaroes {
-  padding: 20px;
+  padding: 10px;
   font-family: 'Roboto', sans-serif;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .pagina-tubaroes h1 {
-  font-size: 3.5em;
+  font-size: 3.5em; /* Mantive o tamanho do título */
   color: #183B4E;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   text-align: left;
 }
 
@@ -19,66 +21,86 @@
 
 .imagem-e-texto {
   display: flex;
-  align-items: flex-start;
   width: 100%;
-  margin-bottom: 20px;
-  flex-wrap: wrap;
+  gap: 40px; /* Espaçamento entre imagem e texto */
+  align-items: flex-start;
+}
+
+.imagem-e-texto .imagem {
+  width: 50%; /* Aumentei a largura da imagem para 80% do contêiner */
+  display: flex;
 }
 
 .imagem-e-texto img {
-  max-width: 40%;
-  height: auto;
+  width: 100%;
+  height: auto; /* A altura se ajusta proporcionalmente à largura */
+  object-fit: cover;
   border-radius: 8px;
-  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-  margin-right: 20px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.15);
 }
 
-.imagem-e-texto p {
-  font-size: 1.2em;
+.imagem-e-texto .texto {
+  width: 40%;
+  font-size: 1.2em !important;
   line-height: 1.6;
-  color: #333;
-  flex: 1;
+  color: #333 !important;
   text-align: left;
+  flex: 1;
+  margin-top: auto;
+  margin-bottom: auto;
 }
+
 
 .botao-abaixo-texto {
-  padding: 10px 20px;
+  padding: 12px 20px;
   background-color: #007bff;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 6px;
   cursor: pointer;
-  font-size: 1em;
-  margin-top: 20px;
+  font-size: 1em; /* Mantive o tamanho da fonte do botão */
+  margin-top: 60px; /* Mantive o espaçamento do botão */
   align-self: flex-start;
+ 
+  
 }
 
 
+
+
+
+/* Responsivo */
 @media (max-width: 768px) {
   .imagem-e-texto {
     flex-direction: column;
-    align-items: center;
+    gap: 20px;
   }
 
-  .imagem-e-texto img {
-    max-width: 90%;
-    margin-right: 0;
-    margin-bottom: 15px;
+  .imagem-e-texto .imagem,
+  .imagem-e-texto .texto {
+    width: 100%;
+    padding: 0;
   }
 
-  .imagem-e-texto p {
+  .imagem-e-texto .texto {
+    font-size: 1.2em; /* Reduzi um pouco o tamanho da fonte em telas menores para melhor leitura */
     text-align: center;
+    line-height: 1.6;
   }
 
   .botao-abaixo-texto {
     align-self: center;
-    margin-top: 10px;
+    margin-top: 30px; /* Mantive o espaçamento do botão */
   }
-}
+
+  .texto-e-botao {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #333;
+} 
 
 
-@media (min-width: 769px) {
-  .botao-abaixo-texto {
-    align-self: flex-start;
-  }
 }
