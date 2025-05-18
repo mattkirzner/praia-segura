@@ -17,9 +17,10 @@ const TopBar = () => {
   const langUS = () => {
     setData({...data, lang:"us"})
   }
+
   return (
     <div id="topbar">
-      <img src={gov} className="topimg" id="gov" alt="Governo de PE" />
+      <a href="https://www.pe.gov.br/"><img src={gov} className="topimg" id="gov" alt="Governo de PE" /></a>
       
       <div id="logo-container">
         <Link to="/">

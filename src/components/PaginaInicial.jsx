@@ -15,12 +15,13 @@ function PaginaInicial() {
   let msgErro = "";
 
   if (data.lang == "br"){
-    msgErro = 'Por favor, preencha o nome e ao menos o email ou telefone.'
+    msgErro = 'Por favor, preencha o nome e ao menos o email ou telefone.';
   }
 
   if (data.lang == "us"){
-    msgErro = 'Please, answer your name and email and/or phone number.'
+    msgErro = 'Please, answer your name and email and/or phone number.';
   }
+
   const handleSubmit = (event) => {
     event.preventDefault();
 
@@ -62,7 +63,7 @@ function PaginaInicial() {
                   id="nome"
                   placeholder="Digite seu nome"
                   value={nome}
-                  onChange={(e) => setNome(e.target.value)}
+                  onChange={(e) => {setNome(e.target.value)}}
                   required
                 />
 

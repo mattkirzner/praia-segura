@@ -36,7 +36,7 @@ export default function Emergencia() {
             <div className="contatos-box">
             <h1>EMERGENCY CONTACTS</h1>
               <p><strong>Military Police:</strong> <a href="tel:190" className="emergency-link">190</a></p>
-              <p><strong>SAMU:</strong> <a href="tel:192" className="emergency-link">192</a></p>
+              <p><strong>SAMU (ambulance):</strong> <a href="tel:192" className="emergency-link">192</a></p>
               <p><strong>Fire Department:</strong> <a href="tel:193" className="emergency-link">193</a></p>
               <p><strong>Civil Defense:</strong> <a href="tel:199" className="emergency-link">199</a></p>
               <p><strong>Tourist Police Station:</strong> <a href="tel:8133224867" className="emergency-link">(81) 3322-4867</a></p>

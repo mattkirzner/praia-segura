@@ -146,7 +146,7 @@ function ClimaEMare() {
 
           {mare ? (
             <div>
-              <h2>Previsão da Maré:</h2>
+              <h2>{textos[data.lang].previsaoMare}:</h2>
               <ul className="lista-mare">
                 {mare.heights?.slice(0, 5).map((item, index) => (
                   <li key={index}>

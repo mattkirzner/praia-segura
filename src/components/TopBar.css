@@ -45,10 +45,10 @@
       padding: 0 15px;  
     }
   
-    #logo {
+    #logo ,#gov {
       height: 70px; 
     }
-  
+    
     .langs img {
       height: 30px; 
     }
@@ -61,10 +61,11 @@
       padding: 0 10px;
     }
   
-    #logo {
+    #logo ,#gov {
       height: 60px; 
     }
-  
+
+
     .langs {
       gap: 8px;  
     }

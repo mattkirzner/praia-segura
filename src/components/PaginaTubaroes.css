@@ -50,6 +50,9 @@
   margin-bottom: auto;
 }
 
+#texto{
+  margin-bottom: 30px;
+}
 
 .botao-abaixo-texto {
   padding: 12px 20px;
@@ -59,8 +62,6 @@
   border-radius: 6px;
   cursor: pointer;
   font-size: 1em; /* Mantive o tamanho da fonte do botão */
-  margin-top: 60px; /* Mantive o espaçamento do botão */
-  margin-left: 24%;
   align-self: flex-start;
  
   
@@ -81,7 +82,7 @@
   .imagem-e-texto .texto {
     width: 100%;
     padding: 0;
-  }
+  } */
 
   .imagem-e-texto .texto {
     font-size: 1.2em; /* Reduzi um pouco o tamanho da fonte em telas menores para melhor leitura */
@@ -89,19 +90,28 @@
     line-height: 1.6;
   }
 
-  .botao-abaixo-texto {
-    align-self: center;
+   .botao-abaixo-texto {
+    align-self: flex-start;
     margin-top: 30px; /* Mantive o espaçamento do botão */
-  }
 
-  .texto-e-botao {
+  } 
+
+   .texto-e-botao {
   display: flex;
   flex-direction: column;
-  width: 40%;
+  width: 100%;
   font-size: 1.2em;
   line-height: 1.6;
-  color: #333;
+  color: #333; 
 } 
 
+  #texto{
+    width: 100%;
+    font-size: 1.0em;
+  }
 
+  #botao{
+    margin-left: 35%;
+    /* margin-right: auto; */
+  }
 }

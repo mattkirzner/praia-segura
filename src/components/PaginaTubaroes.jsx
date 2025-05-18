@@ -33,16 +33,16 @@ function PaginaTubaroes() {
           <div className="imagem-e-texto">
             <img src={tubaraoImagem} alt={altText} />
             <div className="texto-e-botao">
-              <p dangerouslySetInnerHTML={{ __html: textoTubaroesComQuebraLinha }}></p>
-              
+              <p id='texto' dangerouslySetInnerHTML={{ __html: textoTubaroesComQuebraLinha }}></p>
+              <a href='https://semas.pe.gov.br/cemit/' id="botao"rel="noopener noreferrer"className="botao-abaixo-texto">
+                {saibamais}
+              </a>
             </div>
-            
+           
           </div>
           
         </div>
-        <a rel="noopener noreferrer"className="botao-abaixo-texto">
-                {saibamais}
-              </a>
+        
       </div>
     );
   

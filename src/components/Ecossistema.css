@@ -50,6 +50,9 @@ h1 {
     font-size: 2em;
     text-align: center;
   }
+  .centralize{
+    flex-direction: column;
+  }
 
   .secao {
     flex-direction: column;
