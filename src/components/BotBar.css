@@ -1,4 +1,3 @@
-/* BotBar.css */
 #botbar {
   margin-top: 0;
   width: 100vw;
@@ -101,7 +100,6 @@
   background-color: #183B4E;
 }
 
-/* Botão com imagem */
 .ouvidoria-button {
   display: flex;
   align-items: center;

@@ -77,8 +77,8 @@ function ClimaEMare() {
   const [mare, setMare] = useState(null);
   const {data}=useLanguageContext();
   
-  const now = Math.floor(Date.now() / 1000); // timestamp atual
-  const hoursAhead = 12; // número de horas no futuro
+  const now = Math.floor(Date.now() / 1000);
+  const hoursAhead = 12; 
   const lengthInSeconds = hoursAhead * 3600;
 
   let langKey = ""
@@ -90,8 +90,8 @@ function ClimaEMare() {
   }  
 
 
-  const openWeatherKey = '0a5aaffe8af03e61fe5d3dee4255a10d'; //Chave Open Weather
-  const worldTidesKey = '3d3ba109-da68-4722-8d31-27c868645eaa';  //Chave World Tides
+  const openWeatherKey = '0a5aaffe8af03e61fe5d3dee4255a10d'; 
+  const worldTidesKey = '3d3ba109-da68-4722-8d31-27c868645eaa';   
 
   const { nome, lat, lon } = Object.values(cidades)
     .flatMap(regiao => Object.entries(regiao))
