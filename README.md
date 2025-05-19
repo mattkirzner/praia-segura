@@ -79,7 +79,8 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ## 💡 Issue/bug atualizado
 
- ![Captura de tela 2025-04-29 132134](https://github.com/user-attachments/assets/c3308ac9-c74c-43c3-ba0d-9572b7dab712)
+ ![image](https://github.com/user-attachments/assets/69ce8cf2-0318-4ed5-9828-552658f4b6ec)
+
 
 ---
 
