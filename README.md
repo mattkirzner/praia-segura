@@ -91,9 +91,10 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ---
 
-## 🎥 Screencast (Deployment das histórias em produção - Sprint 1)
+## 📌 Quadro do Sprint 2(Sprint Final)
 
-▶️ [Assista ao screencast][(https://www.youtube.com/watch?v=HCaFhLr0Hcw)](https://youtu.be/Dc1PF9GF2cI)
+![Captura de tela 2025-05-19 175502](https://github.com/user-attachments/assets/35d73dba-9627-498f-9a07-b12ec893e233)
+
 
 ---
 
