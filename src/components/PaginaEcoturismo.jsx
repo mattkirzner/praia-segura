@@ -1,6 +1,6 @@
 import React from 'react';
 import InfoUtil from '../components/InfoUtil';
-import EcoturismoImagem from '../imgs/ecoturismo.jpg'; 
+import EcoturismoImagem from '../imgs/ecoturismo.JPG'; 
 import './PaginaEcoturismo.css'; 
 import { useLanguageContext } from './Context';
 
