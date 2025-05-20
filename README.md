@@ -189,13 +189,13 @@ Este projeto foi desenvolvido na disciplina **Projetos 2**, da **CESAR School**,
 
 ## 👨‍💻 Integrantes
 
-- Arthur Borba Lins  
-- Felipe Cisneiros Agostinho  
-- Matheus Rangel Kirzner  
-- Paulo Henrique Alves de Barros Pereira  
+- [Arthur Borba Lins](https://github.com/ArthurLins00)  
+- [Felipe Cisneiros Agostinho](https://github.com/felipecisneiros)  
+- [Matheus Rangel Kirzner](https://github.com/mattkirzner)  
+- [Paulo Henrique Alves de Barros Pereira](https://github.com/phabp)
 
 ---
 
-## 🚧 Em Desenvolvimento
+## ✅ Projeto Concluído
 
-Este projeto está em desenvolvimento. Novas funcionalidades e melhorias estão sendo implementadas continuamente.
+Este projeto foi concluído como parte da disciplina **Projetos 2** da **CESAR School**, em parceria com a **Accenture**. Todas as funcionalidades previstas nas histórias de usuário foram implementadas, testadas e documentadas. Agradecemos à iniciativa **Desafios Pernambuco** pela proposta desafiadora e enriquecedora.
