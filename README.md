@@ -100,6 +100,7 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 ---
 
 🤝 Relato de Programação em Par
+
 Sprint 1
 Durante a Sprint 1, adotamos uma abordagem colaborativa para o desenvolvimento do projeto. Cada integrante ficou responsável por uma história de usuário específica, e posteriormente trabalhamos em conjunto para integrar as funcionalidades e finalizar as entregas. A comunicação da equipe ocorreu principalmente através de reuniões no Discord e interações no grupo de WhatsApp. Todos os membros contribuíram ativamente para o repositório no GitHub, garantindo o versionamento contínuo do código.
 
