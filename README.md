@@ -22,35 +22,41 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ## 🎥 Screencast (Demonstração em Vídeo)
 
-▶️ [Assista ao screencast do projeto](https://www.youtube.com/watch?v=HCaFhLr0Hcw)
+▶️ [Assista ao screencast do projeto](https://www.youtube.com/watch?v=ZrHTcoZYGEA)
 
 ---
 
-## 📌 Histórias de Usuário
+## 📌 Histórias de Usuário (Sprint Final)
 
 1. **Alerta em tempo real**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=7) (Timestamp: 00:07)
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=13) (Timestamp: 00:13 - 00:28)
 
 2. **Mapa interativo das áreas de risco e locais seguros**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=19) (Timestamp: 00:07 - 00:18)
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=29) (Timestamp: 00:29 - 01:14)
 
-3. **Mostrar clima e maré**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=42) (Timestamp: 00:43 - 01:20)
+3. **Geolocalização**  
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=48) (Timestamp: 00:48 - 01:04)
 
-4. **Curiosidades biológicas**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=80) (Timestamp: 01:21 - 02:48)
+4. **Mostrar clima e maré**  
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=75) (Timestamp: 01:15 - 01:31)
 
-5. **Internacionalização**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=197) (Timestamp: 03:17 - 04:29)
+5. **Curiosidades biológicas**  
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=92) (Timestamp: 01:32 - 01:36)
 
-6. **Caixa de Contato**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=185) (Timestamp: 03:05 - 03:17)
+6. **Conteúdo educativo com orientações para banhistas e surfistas** 
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=97) (Timestamp: 01:37 - 01:42)
 
-7. **Conteúdo educativo com orientações para banhistas e surfistas**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=80) (Timestamp: 01:21 - 02:48)
+7. **Contatos de segurança**  
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=103) (Timestamp: 01:43 - 01:55)  
 
-8. **Contatos de segurança**  
-   ▶️ [Assista ao vídeo](https://youtu.be/HCaFhLr0Hcw?t=174) (Timestamp: 02:55 - 03:04)
+8. **Caixa de Contato**  
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=116) (Timestamp: 01:56 - 02:05)
+
+9. **Internacionalização**  
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=151) (Timestamp: 02:06 - 02:16)
+
+10. **Modo Mobile (Responsividade)**  
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=201) (Timestamp: 02:17 - 02:33)
 
 ---
 
