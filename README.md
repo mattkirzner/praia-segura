@@ -80,7 +80,7 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 ---
 
 
-## 📌 Quadro do Sprint 1 juntamente com o Backlog
+## 📌 Quadro do Sprint 1 (Juntamente com o Backlog)
 
 ![image](https://github.com/user-attachments/assets/308027e9-5e8d-4174-878d-3d85e33cce8e)
 
@@ -88,7 +88,7 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ---
 
-## 📌 Quadro do Sprint 2(Sprint Final)
+## 📌 Quadro do Sprint 2 (Sprint Final)
 
 ![Captura de tela 2025-05-19 175502](https://github.com/user-attachments/assets/35d73dba-9627-498f-9a07-b12ec893e233)
 
