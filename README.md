@@ -43,7 +43,7 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 5. **Curiosidades biológicas**  
    ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=92) (Timestamp: 01:32 - 01:36)
 
-6. **Conteúdo educativo com orientações para banhistas e surfistas** 
+6. **Conteúdo educativo com orientações para banhistas e surfistas**  
    ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=97) (Timestamp: 01:37 - 01:42)
 
 7. **Contatos de segurança**  
