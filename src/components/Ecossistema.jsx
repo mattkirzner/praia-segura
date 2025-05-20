@@ -1,7 +1,7 @@
 import React from 'react';
 import './Ecossistema.css'; 
-import coraisImagem from '../imgs/corais.JPG';
-import tartarugaImagem from '../imgs/tartatuga.JPG';
+import coraisImagem from '../imgs/corais.jpg';
+import tartarugaImagem from '../imgs/tartatuga.jpg';
 import { useLanguageContext } from './Context';
 
 function Ecossistema() {
