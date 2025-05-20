@@ -80,6 +80,10 @@
 
 
 @media (max-width: 768px) {
+  .emergencia-page{
+    position: absolute; /*scrollavel no modo mobile*/
+  }
+
   .emergencia-content {
     margin-top: 0; 
   }
