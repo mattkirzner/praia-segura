@@ -49,7 +49,7 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 7. **Contatos de segurança**  
    ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=103) (Timestamp: 01:43 - 01:55)  
 
-8. **Caixa de Contato**  
+8. **Caixa de Contato (Ouvidoria)**  
    ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=116) (Timestamp: 01:56 - 02:05)
 
 9. **Internacionalização**  
