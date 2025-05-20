@@ -133,13 +133,43 @@ Paulo Henrique Alves de Barros Pereira: Foi responsável por tornar o site respo
 
 ---
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
-- Node.JS  
-- React  
-- JavaScript  
-- HTML  
-- CSS  
+- **Node.js**  
+- **React**  
+- **JavaScript**  
+- **HTML**  
+- **CSS**  
+- **Axios**  
+- **react-chartjs-2**  
+- **World Tides API**  
+  - Utilizada para exibir informações sobre marés.
+  - Requer chave de API gratuita: [https://www.worldtides.info/apidocs](https://www.worldtides.info/apidocs)
+- **OpenWeather API**  
+  - Utilizada para exibir dados de clima e temperatura.
+  - Cadastro gratuito: [https://openweathermap.org/api](https://openweathermap.org/api)
+- **Google Maps JavaScript API**  
+  - Utilizada para exibir o mapa interativo de áreas de risco.
+  - Mais informações: [https://developers.google.com/maps/documentation/javascript/overview](https://developers.google.com/maps/documentation/javascript/overview)
+
+---
+
+### 📦 Instalação
+
+Após clonar o repositório, execute o seguinte comando para instalar todas as dependências:
+
+> ```bash
+> npm install
+> ```
+>
+> Caso alguma dependência não seja instalada automaticamente, instale manualmente com:
+>
+> ```bash
+> npm install axios
+> npm install react-chartjs-2
+> ```
 
 ---
 
