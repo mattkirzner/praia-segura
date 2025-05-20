@@ -53,10 +53,10 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
    ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=116) (Timestamp: 01:56 - 02:05)
 
 9. **Internacionalização**  
-   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=151) (Timestamp: 02:06 - 02:16)
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=126) (Timestamp: 02:06 - 02:16)
 
 10. **Modo Mobile (Responsividade)**  
-   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=201) (Timestamp: 02:17 - 02:33)
+   ▶️ [Assista ao vídeo](https://youtu.be/ZrHTcoZYGEA?t=137) (Timestamp: 02:17 - 02:33)
 
 ---
 
