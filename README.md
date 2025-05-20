@@ -99,9 +99,10 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ---
 
-🤝 Relato de Programação em Par
+## 🤝 Relato de Programação em Par
 
-Sprint 1
+### Sprint 1
+
 Durante a Sprint 1, adotamos uma abordagem colaborativa para o desenvolvimento do projeto. Cada integrante ficou responsável por uma história de usuário específica, e posteriormente trabalhamos em conjunto para integrar as funcionalidades e finalizar as entregas. A comunicação da equipe ocorreu principalmente através de reuniões no Discord e interações no grupo de WhatsApp. Todos os membros contribuíram ativamente para o repositório no GitHub, garantindo o versionamento contínuo do código.
 
 Contribuições individuais – Sprint 1:
@@ -114,7 +115,8 @@ Matheus Rangel Kirzner: Inicializou o repositório, editou o screencast e colabo
 
 Paulo Henrique Alves de Barros Pereira: Criou os componentes das páginas de informações úteis, implementou a funcionalidade de dropdown no menu do BotBar e foi responsável pela gravação do screencast.
 
-Sprint 2 (Sprint Final)
+### Sprint 2 (Sprint Final)
+
 Durante a Sprint Final, continuamos com uma abordagem colaborativa no desenvolvimento do projeto. As histórias de usuário restantes foram distribuídas entre os membros da equipe, que se empenharam na sua implementação dentro do site. Mantivemos uma comunicação ativa por meio de reuniões online no Discord, mensagens no grupo de WhatsApp e conversas presenciais pontuais na faculdade.
 
 A colaboração se intensificou nesta etapa, com todos os integrantes contribuindo ativamente para a integração das funcionalidades, realização de testes e desenvolvimento da documentação final. Após a integração das histórias ao sistema, testes manuais foram realizados diretamente no site, permitindo avaliar a necessidade de ajustes ou validar a conclusão de cada funcionalidade.
