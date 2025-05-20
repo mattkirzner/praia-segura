@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './BotBar.css';
 import ouvidoriaIcon from '../imgs/icon-ouvidoria.jpg'; 
-import ouvidoriaIconEng from '../imgs/icon-ouvidoria-eng.PNG';
+import ouvidoriaIconEng from '../imgs/icon-ouvidoria-eng.png';
 import { Link } from 'react-router-dom';
 import { useLanguageContext } from './Context';
 
