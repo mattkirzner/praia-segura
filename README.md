@@ -99,20 +99,37 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ---
 
-## 🤝 Relato de Programação em Par
+🤝 Relato de Programação em Par
+Sprint 1
 Durante a Sprint 1, adotamos uma abordagem colaborativa para o desenvolvimento do projeto. Cada integrante ficou responsável por uma história de usuário específica, e posteriormente trabalhamos em conjunto para integrar as funcionalidades e finalizar as entregas. A comunicação da equipe ocorreu principalmente através de reuniões no Discord e interações no grupo de WhatsApp. Todos os membros contribuíram ativamente para o repositório no GitHub, garantindo o versionamento contínuo do código.
 
-Contribuições individuais:
-
-Felipe Cisneiros Agostinho: Desenvolveu o componente Emergência, integrou diversos componentes do sistema, manteve o Trello e o README atualizados, e criou o Diagrama de Atividades.
-
-Paulo Henrique Alves de Barros Pereira: Criou os componentes das páginas de informações úteis, implementou a funcionalidade de dropdown no menu do BotBar e foi responsável pela gravação do screencast.
-
-Matheus Rangel Kirzner: Inicializou o repositório, editou o screencast e colaborou na estilização dos componentes das páginas de informações úteis.
+Contribuições individuais – Sprint 1:
 
 Arthur Borba Lins: Desenvolveu os componentes TopBar, BotBar e Ouvidoria, contribuiu na estilização do componente Emergência e realizou a integração dos componentes.
 
+Felipe Cisneiros Agostinho: Desenvolveu o componente Emergência, integrou diversos componentes do sistema, manteve o Trello e o README atualizados, e criou o Diagrama de Atividades.
+
+Matheus Rangel Kirzner: Inicializou o repositório, editou o screencast e colaborou na estilização dos componentes das páginas de informações úteis.
+
+Paulo Henrique Alves de Barros Pereira: Criou os componentes das páginas de informações úteis, implementou a funcionalidade de dropdown no menu do BotBar e foi responsável pela gravação do screencast.
+
+Sprint 2 (Sprint Final)
+Durante a Sprint Final, continuamos com uma abordagem colaborativa no desenvolvimento do projeto. As histórias de usuário restantes foram distribuídas entre os membros da equipe, que se empenharam na sua implementação dentro do site. Mantivemos uma comunicação ativa por meio de reuniões online no Discord, mensagens no grupo de WhatsApp e conversas presenciais pontuais na faculdade.
+
+A colaboração se intensificou nesta etapa, com todos os integrantes contribuindo ativamente para a integração das funcionalidades, realização de testes e desenvolvimento da documentação final. Após a integração das histórias ao sistema, testes manuais foram realizados diretamente no site, permitindo avaliar a necessidade de ajustes ou validar a conclusão de cada funcionalidade.
+
+Contribuições individuais:
+
+Arthur Borba Lins: Desenvolveu a página inicial, fez os ajustes nos formulários da Ouvidoria e de Cadastro de Alertas, incluindo o tratamento e tradução dos erros.
+
+Felipe Cisneiros Agostinho: Desenvolveu as páginas de Áreas de Risco, Clima e Maré, além de pesquisar e integrar as APIs utilizadas no projeto.
+
+Matheus Rangel Kirzner: Realizou a gravação e edição do screencast, implementou a funcionalidade de internacionalização do site e executou os merges finais dos arquivos.
+
+Paulo Henrique Alves de Barros Pereira: Foi responsável por tornar o site responsivo em diferentes dispositivos e pela narração do screencast final.
+
 ---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Node.JS  
