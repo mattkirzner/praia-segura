@@ -62,7 +62,8 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ## 📝 Diagrama de Atividades do Sistema
 
- ![image](https://github.com/user-attachments/assets/d0ab5bec-f8aa-4b86-8075-db22196716ef)
+ ![image](https://github.com/user-attachments/assets/1267475e-0e1f-4fb4-ab4f-62f3e86f07b9)
+
 
 
 ---
@@ -77,12 +78,6 @@ Promover a segurança aquática e auxiliar moradores e turistas com informaçõe
 
 ---
 
-## 💡 Issue/bug atualizado
-
- ![image](https://github.com/user-attachments/assets/69ce8cf2-0318-4ed5-9828-552658f4b6ec)
-
-
----
 
 ## 📌 Quadro do Sprint 1 juntamente com o Backlog
 
@@ -132,6 +127,10 @@ Matheus Rangel Kirzner: Realizou a gravação e edição do screencast, implemen
 Paulo Henrique Alves de Barros Pereira: Foi responsável por tornar o site responsivo em diferentes dispositivos e pela narração do screencast final.
 
 ---
+## 💡 Issue/bug atualizado
+
+ ![image](https://github.com/user-attachments/assets/69ce8cf2-0318-4ed5-9828-552658f4b6ec)
+
 
 ---
 
