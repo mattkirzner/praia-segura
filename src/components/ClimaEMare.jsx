@@ -91,7 +91,7 @@ function ClimaEMare() {
 
 
   const openWeatherKey = '0a5aaffe8af03e61fe5d3dee4255a10d'; 
-  const worldTidesKey = '3d3ba109-da68-4722-8d31-27c868645eaa';   
+  const worldTidesKey = '23987bcf-1c3a-4f1d-bfbb-513b50563e7d';   
 
   const { nome, lat, lon } = Object.values(cidades)
     .flatMap(regiao => Object.entries(regiao))
